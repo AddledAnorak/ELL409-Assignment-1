@@ -1,3 +1,8 @@
+'''
+Code written by Shoan Anandkumar Raj (2023EE30967)
+Readme: https://github.com/AddledAnorak/ELL409-Assignment-1/blob/master/readme.md
+'''
+
 import numpy as np
 from scipy.optimize import linprog
 from itertools import product
